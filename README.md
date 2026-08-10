@@ -1,2 +1,2 @@
 # tugas-pk
-buat belajar pk
+-buat belajar pk

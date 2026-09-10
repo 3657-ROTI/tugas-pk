@@ -4,3 +4,4 @@ rencana hari ini
 -main
 -tidur
 -bangun tidur
+-belajar
